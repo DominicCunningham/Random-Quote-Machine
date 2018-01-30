@@ -1,3 +1,4 @@
 function randomNumber() {
-    document.getElementById("demo").innerHTML = "Paragraph changed.";
+  var number = Math.floor(Math.random() * (99 - 0 + 1)) + 0;
+  console.log(number)
 }
