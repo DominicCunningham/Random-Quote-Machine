@@ -41,3 +41,7 @@
 .rounded-quote {
     border-radius: 8px;
 }
+.credit-bar {
+  position: fixed;
+  bottom: 0;
+}
